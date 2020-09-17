@@ -2,6 +2,8 @@
 
 Neural Signal Simulator developed as part of UCLA SURP2020
 
+![SURP2020 Poster](poster.png)
+
 ## Overview
 
 * `mouse.py` uses a pygame interface to collect user cursor movement data.
